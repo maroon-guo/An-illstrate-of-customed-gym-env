@@ -1,11 +1,8 @@
 # An-illstrate-of-customed-gym-env
-Hi,
+trying to use MuJoCo for simulating a DVRK robot and implement Reinforcement Learning as control.
 
-I'm a student and I'm trying to use MuJoCo for simulating a DVRK robot and implement Reinforcement Learning as control.
 
-I'm looking for some help with a error I encountered while creating a custom gym environment.
-
-Here is a code of the custom gym environment which explains my question:
+Here is a code of the custom gym environment :
 
 `import numpy as np
 
